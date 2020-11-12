@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="medium_spacing">16dp</dimen>
+    <dimen name="text_size_small">22sp</dimen>
+    <dimen name="standard_spacing">20dp</dimen>
+    <dimen name="text_size_large">26sp</dimen>
+    <dimen name="small_spacing">8dp</dimen>
+    <dimen name="divider_width">4dp</dimen>
+    <dimen name="extra_large_dimen">50dp</dimen>
+</resources>

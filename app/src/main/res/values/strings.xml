@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoticeEntity Board</string>
+    <string name="notice_parsed">NOTICE_PARSE</string>
+    <string name="description">Details</string>
+</resources>
